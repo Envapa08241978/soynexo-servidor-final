@@ -1,4 +1,4 @@
-    // ACTUALIZACION FORZOSA PORTERO
+    // ACTUALIZACION FORZOSA PORTERO.
     require('dotenv').config();
     const express = require('express');
     const axios = require('axios');
